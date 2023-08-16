@@ -1,6 +1,7 @@
-### Hello, This is Yellowwww
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,blender,cs,dotnet,express,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,md,mongodb,mysql,nodejs,powershell,py,selenium,unity,vscode,visualstudio)](https://skillicons.dev)
 
-## Programming for about 5 years now
-
-## I am in the process of completly re-doing my website. I'll post it somewhere when it is done
+### Experienced full stack web developer and designer
+### .NET hobbyist 
+### Midrange morbius enthusiast
 
