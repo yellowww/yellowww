@@ -1,7 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,blender,cs,dotnet,express,git,github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,md,mongodb,mysql,nodejs,powershell,py,selenium,unity,vscode,visualstudio)](https://skillicons.dev)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,react,aws,blender,cs,dotnet,express,git,github,java,md,mongodb,mysql,nodejs,powershell,py,selenium,unity,vscode,visualstudio&perline=11">
+</p>
 
-### Experienced full stack web developer and designer
-### .NET hobbyist 
-### Midrange morbius enthusiast
+<h3>Experienced full stack web developer and designer</h3>
+<h3>.NET hobbyist</h3>
+<h3>Midrange Morbius enthusiast</h3>
 
