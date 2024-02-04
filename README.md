@@ -4,5 +4,5 @@
 
 <h3>Experienced full stack web developer and front end designer</h3>
 <h3>.NET hobbyist</h3>
-<h3>Midrange Morbius enthusiast</h3>
+
 
